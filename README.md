@@ -1,7 +1,7 @@
 # 🌟 Application Developer Internship Experience - Summer 2023 🌟
 
 ## Introduction
-👋 Welcome to the repository for my Summer 2023 internship! In this repository, you will find two separate projects that highlight my internship journey.  Please note that due to confidentiality reasons, I am unable to share all of the exact code from the main project. However, I am thrilled to present some code snippets and insights into the components and functionalities developed.
+👋 Welcome to the repository for my Summer 2023 internship! In this repository, you will find two separate projects that highlight my internship journey.  Please note that due to confidentiality reasons, I am unable to share all of the exact code from the main project. However, I am thrilled to present some code snippets and learning insights from the developed components and functionalities.
 
 ## Project Overview
 ### Main Project - MERN Stack with TypeScript 🚀
