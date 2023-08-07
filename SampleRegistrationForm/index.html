@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Course Registration Form</title>
+    <link rel="stylesheet" type="text/css" href="styles.css" />
+  </head>
+
+  <body>
+    <div class="form-class">
+      <h1>Course Registration Form</h1>
+
+      <form id="courseForm">
+        <label for="UINInput">Enter UIN:</label>
+        <input type="text" id="UINInput" />
+
+        <br />
+        <label for="email">Enter Email:</label>
+        <input type="text" id="email" name="email" />
+
+        <br />
+
+        <label for="semesterSelect">Choose a Semester:</label>
+        <select id="semesterSelect">
+          <option disabled selected value>--Semester--</option>
+          <option value="course1">Summer 2023</option>
+          <option value="course2">Fall 2023</option>
+          <option value="course3">Spring 2024</option>
+        </select>
+
+        <br />
+
+        <label for="gradeRadio">Choose a Grade:</label>
+        <div class="radio-class">
+          <input type="radio" id="undergrad" name="grade" value="undergrad" />
+          <label for="undergrad">Undergraduate</label>
+
+          <input type="radio" id="grad" name="grade" value="grad" />
+          <label for="grad">Graduate</label>
+        </div>
+        <br />
+
+        <label for="courseSelect"
+          >Choose the courses you want to register for:</label
+        >
+        <div id="courseSelect">
+          <label for="course1">
+            <input
+              type="checkbox"
+              id="course1"
+              name="courses"
+              value="CS 150"
+            />CS 150
+          </label>
+
+          <label for="course2">
+            <input
+              type="checkbox"
+              id="course2"
+              name="courses"
+              value="CS 170"
+            />CS 170
+          </label>
+
+          <label for="course3">
+            <input
+              type="checkbox"
+              id="course3"
+              name="courses"
+              value="CS 250"
+            />CS 250
+          </label>
+        </div>
+
+        <br />
+        <input type="submit" value="Submit" />
+      </form>
+    </div>
+    <div class="registered-courses">
+      <h2>Registered Courses:</h2>
+      <ul id="courseList"></ul>
+
+      <script src="script.js"></script>
+    </div>
+  </body>
+</html>
