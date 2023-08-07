@@ -5,7 +5,7 @@ View the Project Here: https://kelseymara.github.io/App-Developer-Internship-202
 ## Form Functionality ✨
 1) UIN and Email: The form validates the entry of the University Identification Number (UIN) and ensures a valid email address is provided for successful registration.
 2) Semester Selection: Users can choose their desired semester from the drop-down menu, allowing them to register for courses accordingly.
-3) Grade Level: The form enables users to specify their grade level as either "Undergraduate" or "Graduate"
+3) Grade Level: The form enables users to specify their grade level as either "Undergraduate" or "Graduate".
 4) Course Selection: Users can check the courses they wish to register for from a list of available courses.
 5) Submission: After completing the form, users can click the "Submit" button and their registered courses appears on the bottom of the page
 
@@ -18,4 +18,4 @@ Key learnings include:
 
 ## Potential Areas for Improvement 🌟
 - Course Deletion: Implement a feature to allow users to delete selected courses after form submission, providing greater flexibility in the registration process.
-- Styling and Layout Refinement: Consider refining the form's visual aesthetics and layout to make it more appealing and user-friendly
+- Styling and Layout Refinement: Consider refining the form's visual aesthetics and layout to make it more appealing and user-friendly.
