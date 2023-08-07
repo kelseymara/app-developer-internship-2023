@@ -1,5 +1,6 @@
 # Course Registration Form Project 💻📝
 This README highlights the journey of creating this form with the primary aim of gaining practical knowledge in HTML, CSS, and JavaScript. 
+View the Project Here: https://kelseymara.github.io/App-Developer-Internship-2023/SampleRegistrationForm/ 
 
 ## Form Functionality ✨
 1) UIN and Email: The form validates the entry of the University Identification Number (UIN) and ensures a valid email address is provided for successful registration.
