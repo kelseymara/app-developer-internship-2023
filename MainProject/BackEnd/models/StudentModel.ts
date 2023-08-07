@@ -19,7 +19,7 @@ export interface IStudent extends Document {
   grade: string;
 }
 
-// Create and export the Certification model
+// Create and export the Student model
 export default mongoose.model<IStudent>(
   "Student",
   studentSchema
