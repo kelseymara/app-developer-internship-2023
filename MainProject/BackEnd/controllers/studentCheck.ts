@@ -25,7 +25,7 @@ export async function createStudent(req: Request, res: Response) {
     res.status(201).json(savedStudent);
   } catch (error) {
     console.error("Error creating student:", error);
-    res.status(500).json({ error: "An error occurred while creating the certification." });
+    res.status(500).json({ error: "An error occurred while creating the student." });
   }
 }
 
