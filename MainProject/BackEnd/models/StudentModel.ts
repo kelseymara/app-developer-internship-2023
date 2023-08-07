@@ -1,13 +1,9 @@
 import mongoose, { Schema, Document } from "mongoose";
 
 // Define the schema for the Student
-const certificationSchema = new Schema({
+const studentSchema = new Schema({
   name: {
     type: String,
-    required: true,
-  },
-  Id: {
-    type: Number,
     required: true,
   },
   grade: {
