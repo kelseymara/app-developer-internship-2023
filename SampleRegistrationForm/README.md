@@ -1,4 +1,4 @@
-# Course Registration Form Sample Project 
+# Course Registration Form Project 💻📝
 This README highlights the journey of creating this form with the primary aim of gaining practical knowledge in HTML, CSS, and JavaScript. 
 
 ## Form Functionality ✨
