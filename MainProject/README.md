@@ -1,4 +1,4 @@
-# Project README - MERN Stack with TypeScript Internship 🚀
+# MERN Stack with TypeScript Project 🚀
 
 ## Introduction 🌟
 
