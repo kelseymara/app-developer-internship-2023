@@ -8,7 +8,7 @@
 |4|  HTML Table Implementation, Create React App      |   How to get data from the backend and display on frontend     |   CORS errors, Messed up file structure    |
 |5|Changed HTML Table to AG Grid Component |   Implementation of AG Grid Component |    Cell Rendering in AG Grid         |    
 |6|   Finding the difference between two Date objects     |  Getting the time when someone clicks a button and storing it in session storage |          |             |
-|7| Migrating code from Javascript to Typescript     |          |       Type errors       |    
-|8|        |          |          |             |
+|7| Migrating code from Javascript to Typescript     |   Polling (Fetching data every __ seconds)  |       Type errors       |    
+|8| Custom sorting for AG Grid Columns that didn't sort correctly by default sorting |   Value Getters in AG Grid: https://www.ag-grid.com/javascript-data-grid/value-getters/  |          |   
 |9|        |          |          |             |
 |10|        |          |          |             |
