@@ -10,5 +10,5 @@
 |6|   Finding the difference between two Date objects     |  Getting the time when someone clicks a button and storing it in session storage |          |             |
 |7| Migrating code from Javascript to Typescript     |   Polling (Fetching data every __ seconds)  |       Type errors       |    
 |8| Custom sorting for AG Grid Columns that didn't sort correctly by default sorting |   Value Getters in AG Grid: https://www.ag-grid.com/javascript-data-grid/value-getters/  |          |   
-|9|        |          |          |             |
-|10|        |          |          |             |
+|9|  Demo Presentation |          |          |             |
+|10|    Showcase Presentation    |  Added validation to disable button when needed  |          |             |
