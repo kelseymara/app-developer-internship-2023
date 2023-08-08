@@ -19,3 +19,4 @@ Key learnings include:
 ## Potential Areas for Improvement 🌟
 - Course Deletion: Implement a feature to allow users to delete selected courses after form submission, providing greater flexibility in the registration process.
 - Styling and Layout Refinement: Consider refining the form's visual aesthetics and layout to make it more appealing and user-friendly.
+- Database: Store information submitted in the form to a database.
