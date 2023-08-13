@@ -1,4 +1,4 @@
-# Summer Internship 2023 Journal (in progress) 🌟
+# Summer Internship 2023 Journal (overview of my weeks) 🌟
 
 | Week | Tasks | Learnings | Roadblocks | 
 | ------- | -------- | ---------| ---------- |
