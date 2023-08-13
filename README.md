@@ -1,11 +1,11 @@
 # 🌟 Application Developer Internship Experience - Summer 2023 🌟
 
 ## Introduction
-👋 Welcome to the repository for my Summer 2023 internship! In this repository, you will find two separate projects that highlight my internship journey.  Please note that due to confidentiality reasons, I am unable to share all of the exact code from the main project. However, I am thrilled to present some code snippets and learning insights from the developed components and functionalities.
+👋 Welcome to the repository for my Summer 2023 internship! In this repository, you will find two separate projects that highlight my internship journey.  Please note that due to confidentiality reasons, I am unable to share all of the exact code from the main project. However, I am excited to present some code snippets and learning insights from the developed components and functionalities.
 
 ## Project Overview
 ### Main Project - MERN Stack with TypeScript 🚀
-During the internship, I had the opportunity to work with the MERN (MongoDB, Express.js, React, Node.js) stack with TypeScript. The primary objectives of the project were as follows:
+During the internship, I worked with the MERN (MongoDB, Express.js, React, Node.js) stack with TypeScript. The primary objectives of the project were as follows:
 - Database Integration: Implementing MongoDB for seamless data storage and retrieval within the application.
 - Backend Development: Utilizing TypeScript with Express.js and Node.js to ensure strong typing and enhanced code organization.
 - Interactive Frontend Components: Building user-friendly and interactive frontend components using React and TypeScript.
